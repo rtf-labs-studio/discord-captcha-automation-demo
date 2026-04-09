@@ -2,10 +2,12 @@
 This repository demonstrates automatic CAPTCHA solving in Discord.
 
 🎥 Video Demo: 1-Click CAPTCHA
-<video src="https://github.com/rtf-labs-studio/discord-captcha-automation-demo/raw/main/captcha_discord_1_click.mp4" controls width="600"></video>
+
+<img src="1_click.gif" width="600">
 
 🎥 Video Demo: 2-Click CAPTCHA (Drag and Drop)
-<video src="https://github.com/rtf-labs-studio/discord-captcha-automation-demo/raw/main/captcha_discord_2_drop.mp4" controls width="600"></video>
+
+<img src="2_click.gif" width="600">
 
 Features:
 - Automatic CAPTCHA detection
